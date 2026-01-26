@@ -1,7 +1,11 @@
 <div align="center">
   <img src="Bliss.gif" alt="Bliss wallpaper">
-  <h1 align="center">Hello!👋 I'm shell</h1>
 </div>
+
+# Gaah!? You spoke me!
+<span style="font-size:1em; font-style: italic; color: gray">
+    Ermm... Hello I'm just a cryptid in a shell... Nice to meet you..?
+</span>
 
 ##
 ### About me
