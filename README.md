@@ -2,7 +2,7 @@
   <img src="Bliss.gif" alt="Bliss wallpaper">
 </div>
 
-# Gaah!? You spoke me!
+# Gaah!? You spook me!
 <span style="font-size:1em; font-style: italic; color: gray">
     Ermm... Hello I'm just a cryptid in a shell... Nice to meet you..?
 </span>
