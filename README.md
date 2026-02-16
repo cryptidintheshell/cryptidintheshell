@@ -2,7 +2,7 @@
   <img src="Bliss.gif" alt="Bliss wallpaper">
 </div>
 
-# Gaah!? You spook me!
+# !
 <span style="font-size:1em; font-style: italic; color: gray">
     Ermm... Hello I'm just a cryptid in a shell... Nice to meet you..?
 </span>
@@ -13,6 +13,9 @@ I'm a programmer that still has a lot to learn.
 My main focus is on system programming
 But I sometimes do front-end as my side projects.
 I'm also been studying 3d designing and modeling
+
+### And I'm open to collaborating in creating/developing projects!
+Feel free to contact me shelodenina@gmail.com
 
 ##
 ### Frameworks & Languages that I'm familiar with
@@ -31,9 +34,11 @@ I'm also been studying 3d designing and modeling
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools that I use
+### Techs/Tools that I use
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
