@@ -2,17 +2,10 @@
   <img src="Bliss.gif" alt="Bliss wallpaper">
 </div>
 
-# !
-<span style="font-size:1em; font-style: italic; color: gray">
-    Ermm... Hello I'm just a cryptid in a shell... Nice to meet you..?
-</span>
-
 ##
 ### About me
-I'm a programmer that still has a lot to learn. 
-My main focus is on system programming
-But I sometimes do front-end as my side projects.
-I'm also been studying 3d designing and modeling
+A BSCS student in UCC. My focus is on software and web development.
+And planning on learning cybersecurity, embedded and IoT, 3d modelling for my 3d printer.
 
 ### And I'm open to collaborating in creating/developing projects!
 Feel free to contact me shelodenina@gmail.com
