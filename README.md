@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="Bliss.gif" alt="Bliss wallpaper">
-</div>
-
 ##
 ### About me
-A BSCS student in UCC. My focus is on software and web development.
-And planning on learning cybersecurity, embedded and IoT, 3d modelling for my 3d printer.
+I am a Software & Full-Stack Web Developer who loves bridging the gap between clean code, efficient automation, and sleek design. With a strong foundation in core languages like C++, Java, and C#, alongside modern web tech (TypeScript, Tailwind, Firebase), I build scalable applications from the ground up. Currently, I’m expanding my skills into the physical and secure digital world—diving deep into Embedded Systems & IoT, Cybersecurity, and 3D Modeling (FreeCAD) to fuel my 3D printing hobby.
+Beyond standard development, I specialize in workflow optimization using automation tools like n8n, Airtable, and GoHighLevel.
 
-### And I'm open to collaborating in creating/developing projects!
-Feel free to contact me shelodenina@gmail.com
+Let's connect: Feel free to reach out at **shelodenina@gmail.com**
 
 ##
 ### Frameworks & Languages that I'm familiar with
@@ -33,3 +28,11 @@ Feel free to contact me shelodenina@gmail.com
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-181818?style=for-the-badge&logo=airtable&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-3642EE?style=for-the-badge&logo=gohighlevel&logoColor=white)
+![Monday.com](https://img.shields.io/badge/monday.com-00CFF4?style=for-the-badge&logo=monday.com&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
